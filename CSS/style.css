@@ -307,7 +307,7 @@ header {
 }
 
 .top {
-  background: url(/img/mv@2x.png) no-repeat center center/cover;
+  background: url(https://natsumi-h.github.io/portfolio1/img/mv@2x.png) no-repeat center center/cover;
   height: 648px;
   padding: 0 40px;
   position: relative;
@@ -317,7 +317,7 @@ header {
 
 @media (max-width: 767px) {
   .top {
-    background: url(/img/mv.png) no-repeat left 22% center/cover;
+    background: url(https://natsumi-h.github.io/portfolio1/img/mv.png) no-repeat left 22% center/cover;
     height: 667px;
     padding: 0 16px;
   }
@@ -466,7 +466,7 @@ header {
 .news-item-link:after {
   position: absolute;
   content: "";
-  background: url(/img/news-arrow-1.svg) no-repeat center/cover;
+  background: url(https://natsumi-h.github.io/portfolio1/img/news-arrow-1.svg) no-repeat center/cover;
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
